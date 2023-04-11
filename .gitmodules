@@ -1,0 +1,3 @@
+[submodule "RageDefs"]
+	path = RageDefs
+	url = https://github.com/IcarusResearch/RageDefs.git
